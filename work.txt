@@ -1,4 +1,4 @@
-trunk-based
+git-flow
 Данный текстовый файл создан с целью изучения git-flow.
 
 Ветка release вливается в ветку develop. Ветка hothix создается от ветки
